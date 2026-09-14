@@ -1,0 +1,6 @@
+{
+  "name": "Crumb & Co. - Artisan Bakery & Patisserie",
+  "description": "Modern, premium boutique bakery offering handcrafted cakes, cookies, pastries, custom celebration cakes, and doorstep delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
